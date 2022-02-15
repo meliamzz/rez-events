@@ -23,6 +23,6 @@ Les languages utilisés pour cette to do list :
 
 ## 👥 Contributeurs
 
-<a href="https://github.com/meliamzz">Mélia Mazouzi</a>
+<a href="https://github.com/meliamzz">Mélia Mazouzi</a><br>
 <a href="https://github.com/nicolasjolys">Nicolas Jolys</a>
 <a href="https://github.com/Kamel44">Camel Dilmi</a>
