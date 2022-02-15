@@ -11,7 +11,7 @@ Cette application a été créée suite à un besoin de la Mairie de Rezé (44) 
 - Pour les administrateurs de la Mairie, possibilité de valider un événement ou le refuser.
 - Pour les internes de la Mairie, possibilité d'indiquer sa participation à un événement (visible pour les internes)
 
-Déployée en ligne, cette application est accessible en cliquant directement sur ce <a href="https://rez-events.live">lien!</a>
+Déployée en ligne, cette application est accessible en cliquant directement sur ce <a href="https://rez-events.live" target="_blank">lien!</a>
 
  N'hésitez pas à aller visiter le site! 
 
@@ -23,6 +23,6 @@ Les languages utilisés pour cette application :
 
 ## 👥 Contributeurs
 
-<a href="https://github.com/meliamzz">Mélia Mazouzi</a><br>
-<a href="https://github.com/nicolasjolys">Nicolas Jolys</a><br>
-<a href="https://github.com/Kamel44">Camel Dilmi</a>
+<a href="https://github.com/meliamzz" target="_blank">Mélia Mazouzi</a><br>
+<a href="https://github.com/nicolasjolys" target="_blank">Nicolas Jolys</a><br>
+<a href="https://github.com/Kamel44" target="_blank">Camel Dilmi</a>
